@@ -1,0 +1,178 @@
+<!-- emmet yapısı !tab ile kurulur -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <div>
+        <h1> SAYFADA NE VAR</h1>
+        <ul>
+        <li>
+        <a href="html 1.html">
+            html1 sayfasına gidilecek
+        </a>
+        
+        <li>
+        <a href="#sayfaninalti">
+            en alta git
+        </a>
+        <li>
+        <a href="mailto:african8m@gmail.com"> arife mail at</a>
+        </li>
+        <li><a href="tel:+90320583398">arifi ara</a>
+        
+        </ul>
+        <!-- h1+h2+p*5>ol+$*5 -->
+        <p>
+            strong ile yazılarımı <strong>kalın</strong> yapabilirim
+        <p> bir de span var o cssde işimize yarayacak mesela <span>burası görünmez bir inline yapı</span></p>
+        </p> 
+        <p> alttaki çizgiyi hr ile yaptık</p>
+        <br><br><p>bir de br var mesela üsttekiler ayrı duruyor</p>
+        <p>bunlar ise br kullandığım için birleşik duruyor</p>
+        <hr> 
+    </div>
+    
+    </p>
+    <!-- h1+h2>p*ol+$maybeu*5 -->
+    <h1>başlık1</h1>
+    <h2> başlık2
+        <p>sıralı liste</p>
+        <ol></ol>
+        <1maybeu>sıralı</1maybeu>
+        <2maybeu>liste</2maybeu>
+        <3maybeu>elemanlarım</3maybeu>
+        <4maybeu>dolar işaretiyle</4maybeu>
+        <5maybeu>numaralandırdım</5maybeu>
+        <p>ancak yan yana yazıldılar bunu düzeltmeye çalışalım</p>
+    </h2>
+    <h1 class="afet"></h1>
+    <h2>
+        <ul></ul>
+        <p>Lorem ipsum dolor sit.</p>
+        <p>Nam a sapiente recusandae.</p>
+        <p>Praesentium repellat natus tempora.</p>
+        <p>Fugit est suscipit cumque.</p>
+        <p>Sit placeat neque dolor.</p>
+        <p>Voluptate fugiat laborum quia.</p>
+    </h2>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<!-- 
+    >içeriye öge gir
+    ^ tag dışına çık ve öge oluştur - indent hiyerarşisinde düzen aslında > bu işaretin tersi gibi
+    + yeni kardeş öge
+    * çarp
+    . -> class
+    lorem ipsum
+    # id
+
+ -->
+<!-- burada h1+p+p^h2+p+p^h3 yazdık ancak h3 son paragrafın içinde -->
+<h1></h1>
+<p></p>
+<p></p>
+<h2></h2>
+<p></p>
+<p></p>
+<p>
+    <h3></h3>
+</p>
+<!--  -->
+<!-- h1+p+p^^h2+p+p^h3 yaparsak -->
+
+<h1></h1>
+    <p></p>
+<p></p>
+<h2></h2>
+<p></p>
+<p></p>
+<h3></h3>
+<!-- h1+p+p+h2+p+p+h3 yaparsak -->
+<h1></h1>
+<p></p>
+<p></p>
+<h2></h2>
+<p></p>
+<p></p>
+<h3></h3>
+
+<!-- h1+p*5+h2+ul>li*5+p*4+h3 dersem ? liste elemanlarından sonra paragraflarda ^ indent ayarı lazım oldu -->
+<h1></h1>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h2></h2>
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <h3></h3>
+</ul>
+<!-- şöyle çözüyoruz h1+p*5+h2+ul>li*5^p*4+h3 -->
+<h1></h1>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h2></h2>
+<ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h3></h3>
+<!-- lorem anlamsız kelimeler. sonradan içi dolacak içerik ve paragrafların yerini tutan öge. pass kodu gibi düşünülebilir -->
+<p>Lorem, ipsum dolor.</p>
+<img src="https://media.fenerbahce.org/getmedia/28c335c7-c05f-426b-94da-f335a1d1d9ee/100-yil_logo1200.jpg?width=1200&height=675&ext=.jpg?width=375&height=210" alt="fenerbahce">
+<img src="images/2.jpg" alt="bişeyler" align="right">
+<h1>
+    <h2>
+        <img src="images/6.jpg" alt="image yüklenmezse bu görünür" srcset="ne baktn" title="ne baktın" border="3"> 
+    <a href="https://soundcloud.com/arifcany" target="_blank">
+        arif sanatçısına git
+    </a>
+    
+    </h2>
+
+    <ul>
+        <p>Lorem, ipsum dolor.</p>
+        <p>Nobis, veritatis modi?</p>
+        <p>Reiciendis, facilis facere!</p>
+        <p>Ab, accusamus veniam!</p>
+        <p>Veritatis, repellat itaque.</p>
+        <p>Voluptate, sunt saepe?</p>
+    </ul>
+</h1>
+
+<a href="https://soundcloud.com/arifcany" target="_blank">
+
+    <img src="images/7.jpg" alt="image yüklenemedi" title="bu benim kuzen takside şuan">
+
+</a>
+
+<a href="https://soundcloud.com/arifcany">arifin sesi kötü</a>
+
+<h2 id="sayfaninalti"></h2>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
