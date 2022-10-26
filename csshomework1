@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="C:\Users\Kullanıcı\Desktop\yazırım\vscode patika\css\pushnmyslf.css">
+</head>
+
+<header style="font-size: 100px ;font-family: sans-serif; font-style: normal;">POZİSYONEL SATRANÇTA BAZI DIŞAVURUMLAR
+
+</header>
+
+<body class="sarmal">
+    <!-- giriş açıklamamız ve bilgi başlıkları -->
+
+    <p>
+        Satranç, daha da karmaşık hale getirme zahmetine girmeden birden çok şey gerektiren karmaşık bir oyundur. 
+        Temel bilgileri ne kadar basit tutabileceğinize hoş bir şekilde şaşıracaksınız.
+        Bu 4 basit adımı izleyin ve satranç açılışlarınızı hemen şimdi yapın:
+    </p>
+
+    <arricle class="p-fsize">
+        <h2>1.İyi açılış hamleleri yapın</h2>
+            <p>İlk hamlelerinizin amacı tahtada hakimiyet kurmaktır. Tahtanın en önemli bölgesi, merkezidir. 
+                Taşlarınızla ve erlerinizle merkezi kontrol edebilirseniz, oyunun yönünü belirleyen taraf olabilirsiniz. 
+            </p>
+        
+        <h2>2. Taşlarınızı Rakibinize Karşılıksız Olarak Vermeyin</h2>
+            <p>Taşları karşılıklı olarak alıp vermek satrancın doğal bir parçası olsa da, birbirine eş değerdeki taşları değiş tokuş etmelisiniz. Pek çok oyuncu taşlarını ve erlerini karşılıksız olarak rakibe basitçe terk ettikleri için maçlarını kaybetmektedir. Öte yandan, rakibinizin karşılıksız olarak terk ettiği taşların tamamını ele geçirmelisiniz (ama tuzaklara karşı tetikte olun).
+
+            </p>
+        
+        <h2>3. Taşlarınızı Doğru Konuşlandırın</h2>
+            <p>Rakibin şahına ulaşmadan önce, taşlarınızı saldırıya geçmeleri için en uygun pozisyonlara yerleştirmeniz gerekir. 
+                Bu da, pek çok seçeneğe açık ve etkin olarak oyuna dahil olmuş satranç taşlarınız olmasını isteyeceğiniz anlamına gelir.
+                Erler önlerindeki karelere hakim olurlar. Atlar en çok tahtanın merkezinde faydalı olurlar. 
+                Filler uzun çaprazlarda daha güçlüdürler. 
+                Kaleler merkezde veya açık hatlarda konuşlandırıldıklarında etkin olurlar. Veziriniz her an olaylara müdahale etmeye hazır olmalıdır.</p>
+        
+        <h2>4. Şaha Yönelik Hücum Geliştirin</h2>
+            <p>Çoğu zaman rakibinizi tek bir taşınızla şah mat edebilmeniz mümkün olmayacaktır. 
+                Genellikle pek çok taşın uyumlu bir şekilde işbirliği yapması sonucunda rakibinizi şah mat etme imkanı oluşacaktır. 
+                Çoğunlukla bir taşınızla rakip şahı tehdit etmeniz, rakip şahın tehdit eden taşı almasını önlemek 
+                için diğer bir taşınızla da tehdit eden taşı savunmanız gerekecektir. 
+                Bazen rakibin savunmasını aşabilmek için feda bile edebileceğiniz başka taşlara ihtiyacınız olacaktır.</p>
+        
+        <h2>5. Kendi Şahınızın Emniyetine Dikkat Edin</h2>
+            <p>Bazı durumlarda oyuncular rakiplerinin şahına fazla odaklandıkları için kendi şahlarının emniyetine dikkat etmemektedir.
+                Unutmayın ki diğer oyuncu da hamle yapmaya devam etmekte ve şahınıza saldırmayı hedeflemektedir. 
+                Rakibinizin yaptığı her hamlenin oluşturduğu tehditlerin farkında olun. 
+                Şahınızın güvenliğinden emin olmak için en iyi yollardan birisi, şahınızı, onu savunabilecek erlerin arkasında konuşlandırmaktır. 
+                </p>
+        
+        <h2>6. Her Zaman Seviyeli Olun</h2>
+            <p>Kazansanız da, kaybetseniz de rakibinizi her zaman tebrik edin ve sizinle oynadığı oyun için teşekkür edin.
+            Kazanmak da kaybetmek de oyunun bir parçasıdır. Dünyadaki en iyi oyuncular bile sık sık kaybetmektedir.
+            Dolayısıyla oyun bittiğinde seviyeli ve nazik olun ve ardından, bir sonraki oyunda neleri daha iyi yapabileceğinize kafa yorun.</p>
+        
+    </arricle>
+    
+    <div class="ilk-div">
+        <h2>
+            <h3>Pozisyon 1</h3>
+        </h2>
+        <img src="images/ch (1).png" alt="qew" title="1.pozisyon" >
+        <br>
+        <a href="https://lichess.org/analysis/Bq1B1K2/3PpN2/P3Pp2/P1p2P2/2Pk1b1R/1p6/pN1P1P2/QR6_w_-_-_0_1?color=white">
+            Pozisyon üzerinde çalışmak için tıklayınız.
+        </a>
+        <p>Kabul etmek gerekirse gereğinden ilginç bir pozisyon.</p>
+        <p>Denemek istemezseniz anlarım, ben istemedim şahsen.</p>
+    </div>
+    <hr>
+    <div class="iki-div">
+        <h2>
+            <h3>Pozisyon 2</h3>
+        </h2>
+        <img src="images/ch (2).png" alt="qwe2" title="2.pozisyon">
+        <br>
+        <a href="https://lichess.org/analysis/r1bq2r1/b4pk1/p1pp1p2/1p2pP2/1P2PbPB/3P4/1PPQ1P2/R3K2R_w_KQ_-_0_1?color=white">
+            Pozisyon üzerinde çalışmak için tıklayınız.
+        </a>
+        <p>Gözlerim yorulduğu için bazı şeyleri unutmama rağmen devam etmek durumundayım. Burayı kim okuyor bilmem ama...</p>
+        <p>Pozisyonlarda hamle sıralarını koymayı unutmuşum özür diliyorum.</p>
+    </div>
+    <hr>
+    <div class="üç-div">
+        <h2>
+            <h3>Pozisyon 3</h3>
+        </h2>
+        <img src="images/ch (3).png" alt="qewr" title="3.pozisyon">
+        <br>
+        <a href="https://lichess.org/analysis/r1bq2r1/b4pk1/p1pp1p2/1p2pP2/1P2PbPB/3P4/1PPQ1P2/R3K2R_w_KQ_-_0_1?color=white">
+            Pozisyon üzerinde çalışmak için tıklayınız.
+        </a>
+
+        <p>Lorem ipsum dolor sit.</p>
+        <p>Tempore minus quis voluptas.</p>
+        <p>Sunt modi provident iure!</p>
+    </div>
+    <hr>
+    <div class="dört-div">
+        <h2>
+            <h3>Pozisyon 4</h3>
+        </h2>
+        <img src="images/ch (4).jpg" alt="qwrq" title="4.pozisyon">
+        <br>
+        <a href="https://lichess.org/analysis/8/1p6/8/2p4R/1kP5/3K4/p7/3B4_w_-_-_0_1?color=white">
+            Pozisyon üzerinde çalışmak için tıklayınız.
+        </a>
+        <p>Lorem ipsum dolor sit.</p>
+        <p>Et optio sint laborum.</p>
+        <p>Odit fuga minus tenetur?</p>
+    </div>
+    
+</body>
+
+<footer>
+
+<h2>Hakkımda</h2>
+
+<p>Not!:Başka sayfalar eklemeye çok üşendim ama yapabilirim. Yapmadım ama yapabilirdim.</p>
+<br>
+<p>Şimdilik:</p>
+<article>
+    <a href="index.html">ilk sayfam</a>
+    <br>
+
+    <a href="https://lichess.org/@/arifcan">Lichess profilim</a> <p>Eklerseniz birlikte oynayabiliriz.</p>
+    <a href="https://www.instagram.com/arifcany8/">İnstagram profilim</a> <p>Dolu görünsün diye ekliyorum maalesef twitterımı koyamam</p>
+
+
+</article>
+
+</footer>
+</html>
