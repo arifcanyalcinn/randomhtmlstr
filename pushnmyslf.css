@@ -1,0 +1,37 @@
+header{ background-color: burlywood;    
+}
+h3{color: blueviolet;}
+
+	/*sayfayı ortalayan eylem. body içerisinde.  */
+.sarmal{
+    margin:0 auto;text-align:center; width:960px;
+}
+
+.ilk-div{  
+    background-color: aqua;
+}
+
+.iki-div{background-color: cadetblue;
+
+
+}
+
+.üç-div{background-color: darkcyan;
+
+
+}
+
+.dört-div{background-color: lightgreen;
+
+}
+
+.p-fsize{ font-size: 24px; font-family: sans-serif;
+
+}
+h2{
+    font-size: 38px;    font-family: sans-serif;
+}
+
+.back{
+    background-color: khaki;
+}
