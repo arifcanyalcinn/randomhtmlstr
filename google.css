@@ -1,0 +1,46 @@
+
+
+.sarmal{
+    margin:0 auto;text-align:center; width:960px;
+}
+
+.search{
+    background-color: darkgrey; width:95% ; height: 62.400; 
+    
+    
+}
+
+.margin{
+    margin: 0% 0%;
+}
+
+
+.container{
+    
+    margin: 1px 1px;
+    float: left;
+    height: 120px;
+}
+
+.div-bir{
+    background-color:#7EE5DA ; 
+    width: 37%; 
+}
+
+.div-iki{
+
+    background-color: #70CCC2;
+    width: 12%; 
+}
+
+.div.uc{
+    
+    background-color: #62b8ae ;
+    width: 37%;
+
+}
+
+.div-üç{
+    background-color: #62b8ae;
+    width: 45.5%;
+}
